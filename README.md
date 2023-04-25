@@ -22,7 +22,8 @@ Flutter is an open-source UI toolkit for building natively compiled applications
 ## Jitsi Meet: 
 Jitsi Meet is an open-source video conferencing library that provides real-time video conferencing capabilities. It is used in the app to enable video conferencing functionality.
 
-## Google Sign-In: Google Sign-In is a Google authentication library that allows users to sign in to the app using their Google account. It is used in the app for authentication and user management.
+## Google Sign-In: 
+Google Sign-In is a Google authentication library that allows users to sign in to the app using their Google account. It is used in the app for authentication and user management.
 
 # Installation
 To run the Zoom Clone app locally, follow these steps:
