@@ -1,5 +1,5 @@
 # Zoom Clone
-This is a Zoom clone app created by Amanat Singh using Flutter, Jitsi Meet, and Google Sign-In. The app allows users to create and join video conferences similar to Zoom using Jitsi Meet's open-source video conferencing library, and users can sign in with their Google account for authentication.
+This is a Zoom clone app created using Flutter, Jitsi Meet, and Google Sign-In. The app allows users to create and join video conferences similar to Zoom using Jitsi Meet's open-source video conferencing library, and users can sign in with their Google account for authentication.
 
 # Features
 Video Conferencing: Users can create and join video conferences with other users in real-time, similar to Zoom. The app utilizes the Jitsi Meet library to provide seamless video conferencing functionality.
@@ -38,7 +38,7 @@ To run the Zoom Clone app locally, follow these steps:
 If you are interested in contributing to the Zoom Clone app, feel free to fork the repository, create a new branch, and submit a pull request with your changes. Contributions are welcome and appreciated!
 
 # Credits
-The Zoom Clone app was created by Amanat Singh using Flutter, Jitsi Meet, and Google Sign-In. Special thanks to the Flutter and Jitsi Meet communities for their open-source contributions that made this app possible. And To [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat) for his amazing video on [Zoom Clone](https://www.youtube.com/watch?v=sMA1dKbv33Y&list=PLlzmAWV2yTgCjoZNF3hLX3puYJir9vSQO&index=11)
+The Zoom Clone app was created using Flutter, Jitsi Meet, and Google Sign-In. Special thanks to the Flutter and Jitsi Meet communities for their open-source contributions that made this app possible. And To [Rivaan Ranawat](https://www.youtube.com/@RivaanRanawat) for his amazing video on [Zoom Clone](https://www.youtube.com/watch?v=sMA1dKbv33Y&list=PLlzmAWV2yTgCjoZNF3hLX3puYJir9vSQO&index=11)
 
-License
+# License
 The Zoom Clone app is released under the MIT License, which allows for free use, modification, and distribution of the app. Please refer to the LICENSE file for more information.
